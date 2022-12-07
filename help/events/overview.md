@@ -17,11 +17,11 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
 <table>
   <tr>
    <td>
-      <a href="/help/events/analytics/jun2021/getting-started.md">
+      <a href="/help/events/analytics/jun2021/tips-and-tricks.md">
       <img alt="Analytics Getting Started" src="./assets/analytics-getting-started.png"/>
       </a>
       <div>
-         <a href="/help/events/analytics/jun2021/getting-started.md"><strong>Adobe Analytics Getting Started</strong></a>
+         <a href="/help/events/analytics/jun2021/tips-and-tricks.md"><strong>Adobe Analytics Getting Started</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -30,11 +30,11 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
       </p>
     </td>
    <td>
-      <a href="/help/events/marketo/feb2022/data-maintenance.md">
+      <a href="/help/events/analytics/jun2021/tips-and-tricks.md">
       <img alt="Data Maintenance" src="./assets/data-maintenance.png"/>
       </a>
       <div>
-         <a href="/help/events/marketo/feb2022/data-maintenance.md"><strong>Data Maintenance</strong></a>
+         <a href="/help/events/analytics/jun2021/tips-and-tricks.md"><strong>Data Maintenance</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -43,11 +43,11 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
       </p>
     </td>
    <td>
-      <a href="/help/events/workfront/apr2022/ten-tips.md">
+      <a href="/help/events/analytics/jun2021/tips-and-tricks.md">
       <img alt="10 Tips to Wow Your Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="/help/events/workfront/apr2022/ten-tips.md"><strong>10 Tips to Wow Your Workfront</strong></a>
+         <a href="/help/events/analytics/jun2021/tips-and-tricks.md"><strong>10 Tips to Wow Your Workfront</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
