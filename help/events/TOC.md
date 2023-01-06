@@ -1,18 +1,17 @@
 ---
-user-guide-title: Events
-user-guide-breadcrumb: Events
-user-guide-description: This is a description for the user guide that will be displayed on the landing page.
+user-guide-title: Learn from your peers
+user-guide-breadcrumb: Learn from your peers
+user-guide-description: Collection of recordings from Experience Makers Learn from your peers
 ---
 
-# Events {#events}
+# Learn from your peers {#events}
 
-+ [Overview](overview.md)
-
-<!--
-
-Articles must be added to this TOC file in order to render.
-
-Use this list format to specify links to articles and section headings that expand and collapse in the left rail of the user guide.
-
-An article link CANNOT be used as a section heading.
--->
++ [Overview](./overview.md)
++ Analytics {#analytics}
+  + June 2021 {#jun2021}
+    + [Adobe Analytics Tips & Tricks](./analytics/jun2021/tips-and-tricks.md)
+    + [Adobe Analytics Rockstars](./analytics/jun2021/analytics-rockstars.md)
+    + [Analyzing the Data](./analytics/jun2021/analyze-data.md)
+    + [Getting Started](./analytics/jun2021/getting-started.md)
+    + [Marketing Channels, Please Use Responsibly](./analytics/jun2021/marketing-channels.md)
+    + [Putting it All Together](./analytics/jun2021/putting-all-together.md)
