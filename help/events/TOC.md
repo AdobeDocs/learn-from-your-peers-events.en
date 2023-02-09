@@ -21,11 +21,3 @@ user-guide-description: Collection of recordings from Experience Makers Learn fr
       + [Documentation Mission Possible](analytics/june2022/mission-possible.md)
     + March {#mar2022}
       + [Telling Impactful Stories with Data](analytics/mar2022/stories-with-data.md)
-  + 2021 {#2021}
-    + June {#jun2021}
-      + [Tips & Tricks](./analytics/jun2021/tips-and-tricks.md)
-      + [Rockstars](./analytics/jun2021/analytics-rockstars.md)
-      + [Analyzing the Data](./analytics/jun2021/analyze-data.md)
-      + [Getting Started](./analytics/jun2021/getting-started.md)
-      + [Marketing Channels, Please Use Responsibly](./analytics/jun2021/marketing-channels.md)
-      + [Putting it All Together](./analytics/jun2021/putting-all-together.md)
