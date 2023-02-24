@@ -1,7 +1,7 @@
 ---
-user-guide-title: Learn from your peers
-user-guide-breadcrumb: Learn from your peers
-user-guide-description: Collection of recordings from Experience Makers Learn from your peers
+user-guide-title: [!DNL Experience Makers Learn from your peers]
+user-guide-breadcrumb: [!DNL Experience Makers Learn from your peers]
+user-guide-description: Collection of recordings from [!DNL Experience Makers Learn from your peers]
 ---
 
 # Learn from your peers {#events}

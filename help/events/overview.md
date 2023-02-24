@@ -1,8 +1,8 @@
 ---
-title: Experience Makers Learn from your peers
-description: Experience Makers Learn from your peers is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions.
+title: [!DNL Experience Makers Learn from your peers]
+description: [!DNL Experience Makers Learn from your peers] is a global series of virtual customer learning events, focusing on diving deeper into [!DNL Adobe Experience Cloud] solutions.
 ---
-# Experience Makers Learn from your peers {#overview}
+# [!DNL Experience Makers Learn from your peers] {#overview}
 
 <!--- <img alt="Experience Makers Learn from your peers" src="./assets/skill-exchange.png" /> --->
 
@@ -11,4 +11,3 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
 >[!TIP]
 >
 >**All recorded sessions are listed in the navigation on the left**.
-
