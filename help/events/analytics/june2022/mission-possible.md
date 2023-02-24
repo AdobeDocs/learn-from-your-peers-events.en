@@ -1,5 +1,5 @@
 ---
-title: [!DNL Adobe Analytics] Documentation Mission Possible
+title: "[!DNL Adobe Analytics] Documentation Mission Possible"
 description: Watch this session to learn why documentation is crucial for success, best practices, tips and tricks, and several approaches you can take to documenting your [!DNL Adobe Analytics] instance. June 2022
 role: User
 doc-type: Event
