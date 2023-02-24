@@ -1,10 +1,10 @@
 ---
-user-guide-title: [!DNL Experience Makers Learn from your peers]
-user-guide-breadcrumb: [!DNL Experience Makers Learn from your peers]
-user-guide-description: Collection of recordings from [!DNL Experience Makers Learn from your peers]
+user-guide-title: "[!DNL Experience Makers Learn from your peers]"
+user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
+user-guide-description: "Collection of recordings from [!DNL Experience Makers Learn from your peers]"
 ---
 
-# Learn from your peers {#events}
+# [!DNL Experience Makers Learn from your peers] {#events}
 
 + [Overview](./overview.md)
 + Analytics {#analytics}

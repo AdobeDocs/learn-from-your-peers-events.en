@@ -1,5 +1,5 @@
 ---
-title: [!DNL Adobe Analytics] Building a Data Driven Culture
+title: "[!DNL Adobe Analytics] Building a Data Driven Culture"
 description: Join [!DNL Adobe Analytics] Champion Gitai Ben-Ammi as he discusses what a data-driven culture looks like and shares strategies for using [!DNL Adobe Analytics] to build one.
 role: User
 doc-type: Event
