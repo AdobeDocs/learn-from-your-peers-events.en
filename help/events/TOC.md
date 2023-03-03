@@ -22,3 +22,6 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
       + [Documentation Mission Possible](analytics/june2022/mission-possible.md)
     + March {#mar2022}
       + [Telling Impactful Stories with Data](analytics/mar2022/stories-with-data.md)
++ Marketo {#marketo}
+  + March {#mar2023}
+    + [How to Make Your [!DNL Adobe Marketo Engage] Content Scalable](marketo/mar2023/templates-tokens-teamwork.md)
